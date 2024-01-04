@@ -1,13 +1,18 @@
-# 📖 서비스 소개
-이 프로젝트는 요일 별 연재되고 있는 유/무료 웹툰들을 가상 캐시충전/결제, 댓글작성/좋아요 등의 기능과 함께 웹툰을 즐길 수 있는 웹 서비스입니다. 
+# 📖 < COCOA WEBTOON > 서비스 소개
+이 프로젝트는 요일 별 연재되는 웹툰들을 사용자가 회원가입, 로그인, 캐시충전, 웹툰구매, 댓글, 좋아요 등의 기능들과 함께 즐길 수 있도록 구현한 웹 서비스입니다.
       <br/>
    <br/>
    <br/>
-## 💻 개발 환경
+## 💻 개발 환경 및 기술 스택
+![image](https://github.com/choihjhj/CocoaWebtoon/assets/148078504/2318e067-a707-4c46-bc05-0324d8f022b8)
+
+
+<!--
 - **Java** : JDK 11
 - **Editor** : STS(Spring Tool Suite)3
 - **Database** : Oracle SQL Developer
 - **Framework** : Spring
+-->
    <br>
    <br>
        
