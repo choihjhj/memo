@@ -26,3 +26,6 @@
 ![image](https://github.com/choihjhj/CocoaWebtoon/assets/148078504/ceb8f748-5c03-458f-acb1-61989e71a357)
 
 ![image](https://github.com/choihjhj/CocoaWebtoon/assets/148078504/21aab200-43d3-453a-a883-d659bbbbe05d)
+    
+## 👉 개선 사항
+- 코코아 충전 기능을 카카오 결제 API를 연동하여 QR 단건 결제로 개선해 볼 것
