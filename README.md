@@ -12,7 +12,7 @@
 ## 💻 개발 환경 및 기술 스택
 ![image](https://github.com/choihjhj/CocoaWebtoon/assets/148078504/2318e067-a707-4c46-bc05-0324d8f022b8)
 
-
+ 
 <!--
 - **Java** : JDK 11
 - **Editor** : STS(Spring Tool Suite)3
