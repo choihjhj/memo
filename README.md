@@ -76,8 +76,8 @@
 |GET|/lastestComment|최신 댓글 목록 조회|  
 |POST|/like/{commentId}|댓글의 좋아요 추가/취소 처리|  
 |POST|/newcomment |댓글 추가|  
+|POST|/modifycomment |댓글 수정| 
 |POST|/removecomment |댓글 삭제|  
-|POST|/modifycomment |댓글 수정|  
       
       
 **SEARCH**    
